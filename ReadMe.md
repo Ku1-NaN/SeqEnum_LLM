@@ -1,4 +1,8 @@
-# LLM Hidden State Extractor
+# [Supplementary PDF](SI_Sequential_enumeration_in_LLMs.pdf)
+### This is the official implementation of ***Sequential Enumeration in Large Language Models*** paper accepted for ICPR 2026.
+
+
+## LLM Hidden State Extractor
 
 This script utilizes the Hugging Face `transformers` library to process a batch of prompts through an LLM and collect the model's internal hidden states (embeddings) during inference.
 
